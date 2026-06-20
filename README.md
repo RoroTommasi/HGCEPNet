@@ -1,3 +1,3 @@
 # HGCEPNet
-Code for "Lightweight PEPNet with Hybrid Spatial-Spectral Graph Convolution Network for MIMO Detection"  
-The code will be uploaded after this paper is published.
+Code for "Hybrid Graph Convolutional Network Enhanced Expectation Propagation for MIMO Detection"  
+The code and pretrained weights will be made publicly available upon the paper’s acceptance.
